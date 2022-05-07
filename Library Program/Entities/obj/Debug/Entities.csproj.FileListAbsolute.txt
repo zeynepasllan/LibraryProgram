@@ -1,0 +1,11 @@
+C:\Users\zeyne\source\repos\KutuphaneProgrami\Entities\bin\Debug\Entities.dll
+C:\Users\zeyne\source\repos\KutuphaneProgrami\Entities\bin\Debug\Entities.pdb
+C:\Users\zeyne\source\repos\KutuphaneProgrami\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\zeyne\source\repos\KutuphaneProgrami\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\source\repos\KutuphaneProgrami\Entities\obj\Debug\Entities.dll
+C:\Users\zeyne\source\repos\KutuphaneProgrami\Entities\obj\Debug\Entities.pdb
+C:\Users\zeyne\Desktop\KutuphaneProgrami\Entities\bin\Debug\Entities.dll
+C:\Users\zeyne\Desktop\KutuphaneProgrami\Entities\bin\Debug\Entities.pdb
+C:\Users\zeyne\Desktop\KutuphaneProgrami\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Desktop\KutuphaneProgrami\Entities\obj\Debug\Entities.dll
+C:\Users\zeyne\Desktop\KutuphaneProgrami\Entities\obj\Debug\Entities.pdb
